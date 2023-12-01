@@ -1,9 +1,9 @@
 __pycache__/
 *.jpg
 *.png
-key.json
+key.py
 *.h5
+*.xml
+*.caffemodel
 *.DS_Store
-Projects/.DS_Store
-Projects/Communication_Assistant/.DS_Store
 .DS_Store
