@@ -1,7 +1,7 @@
 __pycache__/
 *.jpg
 *.png
-key.py
+keys.py
 *.h5
 *.xml
 *.caffemodel
