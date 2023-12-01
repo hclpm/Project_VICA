@@ -1,0 +1,11 @@
+{
+    "audio": {
+      "content": "/* Your audio */"
+    },
+    "config": {
+      "enableAutomaticPunctuation": true,
+      "encoding": "LINEAR16",
+      "languageCode": "ko-KR",
+      "model": "default"
+    }
+  }
